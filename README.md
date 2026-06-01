@@ -1,0 +1,2 @@
+# msfconsole
+Alpine Docker msfconsole
